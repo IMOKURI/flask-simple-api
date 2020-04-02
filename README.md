@@ -14,9 +14,9 @@
 
 ### Endpoint
 
-`/simple`: return `ok`
-`/simple/ping`: return `pong`
-`/simple/now`: return datetime of now
+- `/simple`: return `ok`
+- `/simple/ping`: return `pong`
+- `/simple/now`: return datetime of now
 
 ## :bookmark: Software Version
 
