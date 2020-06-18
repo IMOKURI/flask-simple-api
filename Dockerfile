@@ -6,6 +6,6 @@ RUN pip install --no-cache-dir \
 COPY . /app
 WORKDIR /app
 
-EXPOSE 80/TCP
+EXPOSE 8000/TCP
 
 CMD ["python", "app.py"]
