@@ -39,7 +39,7 @@ $ . .venv/bin/activate
 ## :rocket: Run
 
 ```bash
-$ python app.py
+(.venv)$ python app.py
 ```
 
 ## :bug: Known Issue
