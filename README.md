@@ -22,7 +22,26 @@
 
 ## :pushpin: Prerequisite
 
-## :rocket: Install
+If you have `poetry`.
+
+```bash
+$ poetry install
+$ poetry shell
+```
+
+Or not.
+
+```bash
+$ python3 -m venv .venv
+$ . .venv/bin/activate
+(.venv)$ pip install flask
+```
+
+## :rocket: Run
+
+```bash
+$ python app.py
+```
 
 ## :bug: Known Issue
 
