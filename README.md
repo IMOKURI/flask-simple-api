@@ -21,15 +21,6 @@
 
 ## :pushpin: Prerequisite
 
-If you have `poetry`.
-
-```bash
-$ poetry install
-$ poetry shell
-```
-
-Or not.
-
 ```bash
 $ python3 -m venv .venv
 $ . .venv/bin/activate
